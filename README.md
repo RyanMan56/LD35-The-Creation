@@ -1,5 +1,5 @@
 # LD35-The-Creation
-My entry for LD35; a 48 hour game making competition
+My entry for LD35; a [48 hour game making competition](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=4006)
 
 ![In-game screenshot](https://github.com/RyanMan56/LD35-The-Creation/blob/master/ss2.png?raw=true "The evil little guy")
 
